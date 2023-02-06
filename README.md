@@ -24,7 +24,7 @@ The Web API is documented using Swagger UI.
 
 ## Technology Stack 
 
--.NET 7
+- .NET 7
 - Swagger UI
 
 ## Getting Started 
